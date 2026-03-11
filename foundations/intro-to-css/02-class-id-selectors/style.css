@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: rgb(230, 43, 74);
+    font-family: Verdana, "Dejavu", sans-serif;
+    
+}
+
+.spc {
+    font-size: 24px;
+}
+
+#special {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+
+#nu-two {
+    background-color: rgb(102, 255, 0);
+    font-weight: bold;
+
+}
