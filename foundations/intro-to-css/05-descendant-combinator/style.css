@@ -1,1 +1,7 @@
 /* Add CSS Styling */
+div .text {
+    background-color: rgb(185, 221, 22);
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
